@@ -1,3 +1,23 @@
+.site-header {
+    text-align: center;
+    padding: 30px;
+    background: white;
+}
+
+.project-logo {
+    max-width: 700px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+.funding-logo {
+    max-width: 350px;
+    width: 100%;
+    height: auto;
+}
+
 body {
     font-family: Segoe UI, Arial, sans-serif;
     margin: 0;
