@@ -42,6 +42,10 @@ section {
     object-fit: contain;
 }
 
+.partner-logos img[alt="BTO Logo"] {
+    height: 50px;
+}
+
 /* ACCLIMATISE + PEACEPLUS */
 
 .site-header {
