@@ -45,15 +45,18 @@ section {
    ========================= */
 
 nav {
-    text-align: center;
     background: #005a9c;
+    text-align: center;
     padding: 15px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
 nav a {
     color: white;
     text-decoration: none;
-    margin: 0 15px;
+    margin: 0 20px;
     font-weight: 600;
 }
 
