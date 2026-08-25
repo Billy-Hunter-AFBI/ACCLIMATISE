@@ -1,6 +1,9 @@
 /* =========================
    GENERAL PAGE STYLING
    ========================= */
+html {
+    scroll-behavior: smooth;
+}
 
 body {
     font-family: "Segoe UI", Arial, sans-serif;
