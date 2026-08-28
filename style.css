@@ -102,15 +102,15 @@ nav a:hover {
 }
 
 .ecosystem-image img {
-    width: 50%;
-    max-width: 500px;
+    width: 25%;
+    max-width: 300px;
     height: auto;
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
 .ecosystem-image .image-caption {
-    max-width: 500px;
+    max-width: 300px;
     margin: 12px auto 0 auto;
     font-size: 0.95rem;
     color: #666;
