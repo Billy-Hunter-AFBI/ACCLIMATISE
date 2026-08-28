@@ -279,12 +279,21 @@ li {
 }
 
 /* =========================
-   FOOTER
+   CONTACT
    ========================= */
 
-footer {
+#contact {
     background: #f5f7fa;
-    text-align: center;
-    padding: 40px 20px;
-    margin-top: 50px;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+
+/* =========================
+   WEBSITE CREDIT
+   ========================= */
+
+.website-credit {
+    margin-top: 25px;
+    font-size: 0.9rem;
+    color: #666;
 }
