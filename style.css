@@ -94,30 +94,6 @@ nav a:hover {
 }
 
 /* =========================
-   ECOSYSTEM INFOGRAPHIC
-   ========================= */
-
-.ecosystem-image {
-    text-align: center;
-    margin: 30px auto;
-}
-
-.ecosystem-image img {
-    width: 65%;
-    max-width: 700px;
-    height: auto;
-}
-
-.ecosystem-image .image-caption {
-    max-width: 700px;
-    margin: 12px auto 0 auto;
-    font-size: 0.95rem;
-    color: #666;
-    font-style: italic;
-    line-height: 1.6;
-}
-
-/* =========================
    HEADINGS
    ========================= */
 
