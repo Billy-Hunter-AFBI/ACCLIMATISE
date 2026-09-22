@@ -132,6 +132,31 @@ h4 {
 }
 
 /* =========================
+   NEWS SECTION
+   ========================= */
+#news {
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 30px;
+    background: #f8f9fa;
+    border-radius: 10px;
+}
+
+#news h2 {
+    color: #004b6b;
+}
+
+#news h3 {
+    margin-bottom: 5px;
+}
+
+#news hr {
+    margin: 25px 0;
+}
+
+
+
+/* =========================
    CONSORTIUM PARTNER CARDS
    ========================= */
 
