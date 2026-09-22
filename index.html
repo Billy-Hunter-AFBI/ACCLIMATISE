@@ -554,5 +554,20 @@
 
 </footer>
 
+https://cdn.jsdelivr.net/npm/marked/marked.min.jsscript>
+
+<script>
+fetch('news.md')
+    .then(response => response.text())
+    .then(markdown => {
+        document.getElementById('news-content').innerHTML =
+            marked.parse(markdown);
+    })
+    .catch(error => {
+        document.getElementById('news-content').innerHTML =
+            '<p>Unable to load news items.</p>';
+    });
+</script>
+    
 </body>
 </html>
