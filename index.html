@@ -557,7 +557,7 @@
 <script src="https://cdn.jsdelivr.d/marked.min.js"></script>
 
 <script>
-fetch('/news.md')
+fetch('news.md')
     .then(response => response.text())
     .then(markdown => {
         document.getElementById('news-content').innerHTML =
