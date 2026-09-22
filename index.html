@@ -554,7 +554,7 @@
 
 </footer>
 
-<script src="sdelivr.net/npm/marked/marked.min.jsscript>
+<script src="https://cdn.jsdelivr.net/npm/markedsscript>
 
 <script>
 fetch('news.md')
@@ -566,6 +566,7 @@ fetch('news.md')
     .catch(error => {
         document.getElementById('news-content').innerHTML =
             '<p>Unable to load news items.</p>';
+        console.error('Error loading news.md:', error);
     });
 </script>
     
