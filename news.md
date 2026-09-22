@@ -7,7 +7,6 @@ A joint launch event for the ACCLIMATISE, MOSAIC and SEAMAP projects was held at
 The event brought together project partners, policymakers, stakeholders and representatives from across the marine and environmental sectors to mark the commencement of these important cross-border initiatives. Attendees had the opportunity to learn about the objectives of each project, explore opportunities for collaboration, and discuss the role of scientific research and innovation in supporting sustainable management of the shared marine environment.
 
 Group%20shot%20with%20props.jpg
-``
 
 ---
 
