@@ -18,10 +18,5 @@ The data collected during the cruise will contribute to several key objectives o
 
 The research cruise represents an important step towards developing the evidence base needed to support sustainable, ecosystem-based management of the Irish and Malin Seas in a changing climate.
 
-## 22 September 2026
-
-### ACCLIMATISE Website launch
-
-The ACCLIMATISE Website is now live
 ---
 
